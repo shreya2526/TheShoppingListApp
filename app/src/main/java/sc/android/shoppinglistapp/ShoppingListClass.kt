@@ -1,8 +1,8 @@
 package sc.android.shoppinglistapp
 
-data class ShoppingListClass(
-    var id:Int,
-    var name:String,
-    var quantity:Int,
-    var isEditing:Boolean=false
+data class ShoppingListClass (
+    var id: Int,
+    var name: String,
+    var quantity: Int,
+    var isEditing: Boolean = false
 )

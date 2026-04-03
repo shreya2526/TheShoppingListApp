@@ -84,7 +84,7 @@ fun ShoppingItemView(
                     Text(
                         "Name: ",
                         fontWeight = FontWeight.Bold,
-                        fontSize = 17.sp,
+                        fontSize = 15.sp,
                         color = BodyText
                     )
 
@@ -108,7 +108,7 @@ fun ShoppingItemView(
                     Text(
                         "Qty: ",
                         fontWeight = FontWeight.Bold,
-                        fontSize = 17.sp,
+                        fontSize = 15.sp,
                         color = BodyText
                     )
 
