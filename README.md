@@ -6,32 +6,7 @@ The app allows users to add, edit, and delete shopping items with a clean UI and
 ---
 
 ## 📸 App Demo
-<h2>App Landing Page</h2>
-<img src="snapshots/1.png" height="400"></img>
 
-<h2>App Input taking and handling "Add" process</h2>
-<p>
-<img src="snapshots/2.png" height="400"></img>
-<img src="snapshots/3-a.png" height="400"></img>
-<img src="snapshots/4-b.png" height="400"></img>
-<img src="snapshots/3-b.png" height="400"></img>
-</p>
-
-<h2>Editing the list items</h2>
-<p>
-<img src="snapshots/5-a.png" height="400"></img>
-<img src="snapshots/5-b.png" height="400"></img>
-<img src="snapshots/5-c.png" height="400"></img>
-</p>
-
-<h2>Deleting item</h2>
-<img src="snapshots/6.png" height="400"></img>
-
-<h2>Scrollable list</h2>
-<p>
-<img src="snapshots/7-a.png" height="400"></img>
-<img src="snapshots/7-b.png" height="400"></img>
-</p>
 ---
 
 ## ✨ Features
