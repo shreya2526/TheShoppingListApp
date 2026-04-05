@@ -102,6 +102,8 @@ https://github.com/user-attachments/assets/f22b4bbe-19a2-4dbd-bd8b-e1a4695b6fe8
 
 https://github.com/user-attachments/assets/326a5cd5-4b30-4761-a0db-c5dd49725833
 
+Full video link: https://youtube.com/shorts/TJjCQQDavT4
+
 ---
 
 ## 🌐 API Integration
