@@ -64,6 +64,7 @@ graph TD
     Location --> Data
     Data --> VM
     VM --> UI
+    
 ### 📌 Explanation
 - UI (Compose) → Displays state
 - ViewModel → Holds state & business logic
@@ -89,7 +90,22 @@ graph TD
 ---
 
 ## 📸  Demo Video
-[ Add your demo video link here ]
+
+
+https://github.com/user-attachments/assets/43aedd34-f759-47d3-b3aa-aa6c1ca1d1fa
+
+
+https://github.com/user-attachments/assets/dfb14d46-e90c-4e96-97ab-8570c4118a80
+
+
+https://github.com/user-attachments/assets/31b48e96-1b5b-4963-9f2e-8d5dd6455804
+
+
+https://github.com/user-attachments/assets/91ced828-9cfe-42dc-b5be-411f79f0aa33
+
+
+https://github.com/user-attachments/assets/5e60a7c1-b38a-43fa-aa6e-6a8d0c668dc8
+
 ---
 
 ## 🌐 API Integration
@@ -185,4 +201,4 @@ Feel free to connect with me on:
 - GitHub
 - X (Twitter)
 
--—
+-—-
