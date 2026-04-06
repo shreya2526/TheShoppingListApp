@@ -83,7 +83,8 @@ fun ShoppingList(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .background(color = ScreenBg),
+            .background(color = ScreenBg)
+            .padding(top=40.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     )
     {
