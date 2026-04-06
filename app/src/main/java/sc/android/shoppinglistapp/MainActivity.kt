@@ -29,7 +29,6 @@ class MainActivity : ComponentActivity() {
             ShoppingListAppTheme {
                 Scaffold(modifier = Modifier
                     .background(ScreenBg)
-                    .systemBarsPadding()
                     .fillMaxSize()) { innerPadding ->
                     LocationPermissionHandler(
                         viewModel = viewModel,
